@@ -1,0 +1,35 @@
+.content{
+	background-color: #4682B4;
+	max-height: 607px;
+}
+
+footer{
+	margin-top: 50px;
+}
+
+.navbar-default{
+	background-color: #fff;
+}
+
+body{
+	background-color: #F5F5F5;
+}
+
+.small-print{
+	text-align: center;
+}
+
+.panel-heading, .panel-body{
+	text-align: center;
+}
+
+.img-rounded{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.jumbotron{
+	background-color: #1874CD;
+	color: white;
+}
+
